@@ -2,7 +2,7 @@
 # React + Vite
 
 Source Code : [Get the code](https://buymeacoffee.com/ftcfocfw06/e/374597)
-Demo : [Demo](sonikrish.com)
+Demo : [sonikrish.com](www.sonikrish.com)
 
  
 To Sum Up;
