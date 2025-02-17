@@ -1,8 +1,8 @@
 ﻿# my-portfolio
 # React + Vite
 
-Source Code : [](https://buymeacoffee.com/ftcfocfw06/e/374597)
-Demo : [](sonikrish.com)
+Source Code : [Get the code](https://buymeacoffee.com/ftcfocfw06/e/374597)
+Demo : [Demo](sonikrish.com)
 
  
 To Sum Up;
