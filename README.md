@@ -1,7 +1,7 @@
 ﻿# my-portfolio
 # React + Vite
 
-[Support Me](https://buymeacoffee.com/ftcfocfw06/e/374597)
+[Support Me](https://buymeacoffee.com/ftcfocfw06)
 Demo : [Portfolio](https://sonikrish.com)
 
 
