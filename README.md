@@ -1,6 +1,7 @@
 JS Junction :
 --> Your gateway to mastering JavaScript through real-world projects! – a collection of JavaScript projects with source code and detailed explanations. This repository serves as a learning hub for developers looking to enhance their JavaScript skills through interactive and real-world projects.
 
+
 🚀 Features :
 
 --> Detailed explanations for each project.
@@ -27,6 +28,8 @@ JS Junction :
 --> This project is licensed under the MIT License. This means you are free to use, modify, and distribute the code, provided that the original license is included in any copies or substantial portions of the software.
 
 
+💡 Explore, learn, and build with JS Junction!
+
 --> A collection of JavaScript projects, including interactive web apps, games, utilities, and animations, with source code.
 
-💡 Explore, learn, and build with JS Junction!
+
